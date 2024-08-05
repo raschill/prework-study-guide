@@ -12,7 +12,7 @@ N/A
 
 ## Usage
 
-You can use this Study Guide by reading the notes under each section. You can also use the DevTools console to see the JavaScript running. You can call it with `Control+Shift+I` \(Windows) or `Command+Option+I` \(MacOS).
+You can use this Study Guide by reading the notes under each section. You can also use the DevTools console to see the JavaScript running. You can call it with `Control+Shift+I` \(Windows) or `Command+Option+I` \(MacOS). It can even suggest what you should study first.
 
 ## Credits
 
